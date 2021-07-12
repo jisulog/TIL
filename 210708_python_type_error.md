@@ -29,9 +29,7 @@ def get_todos() # x
 def get_todos(self) # o
 ```
 
-
-
-`클래스 안의 정의된 함수에 self`를 작성하자
+- `클래스 안의 정의된 함수에 self`를 작성하자
 
 
 

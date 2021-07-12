@@ -26,7 +26,7 @@ ImportError: attempted relative import with no known parent package
 
 # 해결방법
 
-`main 모듈에서는 절대경로`를, `하위 모듈에서는 상대경로`를 사용하자
+- `main 모듈에서는 절대경로`를, `하위 모듈에서는 상대경로`를 사용하자
 
 
 
