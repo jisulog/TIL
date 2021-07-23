@@ -1,6 +1,6 @@
 # 문제
 
-```bash
+```powershell
 No module named 'polls.apps.PollsConfigdjango'
 ```
 

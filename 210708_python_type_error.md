@@ -1,6 +1,6 @@
 # 문제
 
-```
+```powershell
 TypeError: get_todos() takes 0 positional arguments but 1 was given
 ```
 
@@ -32,6 +32,8 @@ def get_todos(self) # o
 - `클래스 안의 정의된 함수에 self`를 작성하자
 
 
+
+___
 
 
 

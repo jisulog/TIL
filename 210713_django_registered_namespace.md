@@ -1,6 +1,6 @@
 # 문제
 
-```web-idl
+```html
 NoReverseMatch at /polls/ 
 'polls' is not a registered namespace
 ```
@@ -37,7 +37,7 @@ NoReverseMatch at /polls/
 
 
 
-> 프로젝트 밑에 urls.py: `mysitr/urls`
+> 1. 프로젝트 밑에 urls.py: `mysitr/urls`
 
 ```python
 from django.contrib import admin
@@ -55,7 +55,7 @@ urlpatterns = [
 
 
 
-> 애플리케이션 밑에 urls.py: `polls/urls`
+> 2. 애플리케이션 밑에 urls.py: `polls/urls`
 
 ```python
 from . import views
